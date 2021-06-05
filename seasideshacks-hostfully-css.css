@@ -2,8 +2,7 @@
     display: none;
 }
 
-.hide-on-mobile,
-.hide-on-desktop {
+.blueimp-gallery-carousel {
     margin-top: 100px;
 }
 
