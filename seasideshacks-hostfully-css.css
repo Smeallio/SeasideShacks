@@ -2,8 +2,12 @@
     display: none;
 }
 
+.hide-on-mobile, .hide-on-desktop {
+    margin-top: 100px;
+}
+
 .navbar {
-	background: #000;
+    background: #000;
     transition: all 0.4s;
 }
 
