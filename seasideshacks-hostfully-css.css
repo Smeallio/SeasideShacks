@@ -2,6 +2,10 @@
     display: none;
 }
 
+#footer {
+    height: 30px !important;
+}
+
 .hide-on-mobile,
 .hide-on-desktop {
     margin-top: 100px;
