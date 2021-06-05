@@ -48,6 +48,7 @@
 @media (max-width: 991px) {
     .navbar {
         background: #000;
+	display: block !important;
     }
 
     .navbar .navbar-brand, .navbar .nav-link {
